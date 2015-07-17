@@ -15,12 +15,12 @@ Git workflow
 
 **$ git log** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; //shows all the commits that have been made to repo
 **$ git status** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; //shows any pending changing in the repo waiting to be commited  
-**$ git checkout -f** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; //Go back to the last working branch and the -f flag force overwrites
+**$ git checkout -f** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; //Go back to the last working branch and the -f flag force overwrites    
 **$ git push origin NameOfBranch** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; //push your commited code to branch  
 **$ git pull** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; //pull the most up to date branch from github  
 **$ git checkout BranchName** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; //Change to BranchName  
-**$ git checkout -b BranchName** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; //create a new branch with the name BranchName and-b command flag means new
-**$ git branch** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; //check what branch you are on and what other branches are avaible
+**$ git checkout -b BranchName** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; //create a new branch with the name BranchName and-b command flag means new
+**$ git branch** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; //check what branch you are on and what other branches are avaible    
 **$ git mv OldFile.rdoc NewFile.md** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; //change the name of a file  
 **$ git commit -a -m "Improve the README file"** &nbsp;&nbsp; //shortcut add, DO NOT USE if you added new files  
 **$ git branch -d BranchName** &nbsp;&nbsp;&nbsp;&nbsp; //delete a branch with the name BranchName
