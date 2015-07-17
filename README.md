@@ -51,7 +51,7 @@ Go to the home folder of the project on the terminal
 
 **$ git init**  
 **$ git add -A** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; //Adds all files to be commited  
-**$ git commit -a** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; //Adds all unstaged files and commits at the same time 
+**$ git commit -a** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; //Adds all unstaged files and commits at the same time     
 **$ git commit -m "Initialize repository"** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; //Commits all files with -m flag to write a comment  
 
 To push the local Repo to a github repo  
